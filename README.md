@@ -7,7 +7,7 @@ State Wiki page: https://en.wikipedia.org/wiki/Minnesota
 
 Collaborators:
 
-    Jacob Goss
+    Jacob Goss - Accepted
     Samuel Hale
     Daniel Hixon - Creator
     Austin Jenkins
