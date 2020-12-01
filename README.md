@@ -11,4 +11,4 @@ Collaborators:
     Samuel Hale
     Daniel Hixon - Creator
     Austin Jenkins
-    Michael Horn
+    Michael Horn - ACCEPTANCE
