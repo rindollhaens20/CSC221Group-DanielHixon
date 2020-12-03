@@ -10,5 +10,5 @@ Collaborators:
     Jacob Goss - Accepted
     Samuel Hale - Accepted
     Daniel Hixon - Creator
-    Austin Jenkins
+    Austin Jenkins - Accepted
     Michael Horn - ACCEPTANCE
