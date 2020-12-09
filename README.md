@@ -12,3 +12,7 @@ Collaborators:
     Daniel Hixon - Creator
     Austin Jenkins - Accepted
     Michael Horn - ACCEPTANCE
+
+Instructor:
+
+    Ms Rizzo srizzo@waketech.edu
